@@ -3,3 +3,13 @@
 #indent {
   margin: 20px;
 }
+
+#headerImage {
+  width: 45%;
+  height: auto;
+}
+
+#insta {
+  width:50%;
+  padding: 20px;
+}
