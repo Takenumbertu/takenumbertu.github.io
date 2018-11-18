@@ -9,6 +9,7 @@
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+  align: right;
 }
 
 .fa:hover {
@@ -42,6 +43,18 @@
 }
 
 /* END of style for SM icons */
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
 
 #indent {
   margin: 20px;
